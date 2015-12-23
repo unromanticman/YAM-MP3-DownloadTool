@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\YAM天空音樂下載器\bin\Debug\YAM天空音樂下載器.exe.config
+c:\users\user\documents\visual studio 2013\Projects\YAM天空音樂下載器\bin\Debug\YAM天空音樂下載器.exe
+c:\users\user\documents\visual studio 2013\Projects\YAM天空音樂下載器\bin\Debug\YAM天空音樂下載器.pdb
+c:\users\user\documents\visual studio 2013\Projects\YAM天空音樂下載器\obj\Debug\YAM天空音樂下載器.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\YAM天空音樂下載器\obj\Debug\YAM天空音樂下載器.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\YAM天空音樂下載器\obj\Debug\YAM天空音樂下載器.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\YAM天空音樂下載器\obj\Debug\YAM天空音樂下載器.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\YAM天空音樂下載器\obj\Debug\YAM天空音樂下載器.exe
+c:\users\user\documents\visual studio 2013\Projects\YAM天空音樂下載器\obj\Debug\YAM天空音樂下載器.pdb
