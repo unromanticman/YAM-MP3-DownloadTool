@@ -1,0 +1,9 @@
+c:\users\um\documents\visual studio 2013\Projects\YAM單曲下載\YAM單曲下載\bin\Debug\YAM單曲下載.exe.config
+c:\users\um\documents\visual studio 2013\Projects\YAM單曲下載\YAM單曲下載\bin\Debug\YAM單曲下載.exe
+c:\users\um\documents\visual studio 2013\Projects\YAM單曲下載\YAM單曲下載\bin\Debug\YAM單曲下載.pdb
+c:\users\um\documents\visual studio 2013\Projects\YAM單曲下載\YAM單曲下載\obj\Debug\YAM單曲下載.csprojResolveAssemblyReference.cache
+c:\users\um\documents\visual studio 2013\Projects\YAM單曲下載\YAM單曲下載\obj\Debug\YAM單曲下載.Form1.resources
+c:\users\um\documents\visual studio 2013\Projects\YAM單曲下載\YAM單曲下載\obj\Debug\YAM單曲下載.Properties.Resources.resources
+c:\users\um\documents\visual studio 2013\Projects\YAM單曲下載\YAM單曲下載\obj\Debug\YAM單曲下載.csproj.GenerateResource.Cache
+c:\users\um\documents\visual studio 2013\Projects\YAM單曲下載\YAM單曲下載\obj\Debug\YAM單曲下載.exe
+c:\users\um\documents\visual studio 2013\Projects\YAM單曲下載\YAM單曲下載\obj\Debug\YAM單曲下載.pdb
